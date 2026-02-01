@@ -1,0 +1,46 @@
+English Daily Communication – Day 4
+
+Date: 29-01-2026
+Topic:  favourite ones, Any thing favourite 
+
+Attendance Sheet
+S.No	Name		Attendance
+1	Narendar	Present
+2	Navakumar	Present
+3	Nikhil	        Present
+4	Rahul		Present
+5	Akshaya		Present
+6	Rashmitha	Present
+
+
+### Quick summary ###
+
+During this meeting, Choppari, Narender, Navakumar, Nikhil, Rahul, bondla discussed, presentations and practice plans, personal updates, troubleshooting a Git push/pull-request issue, and plans for tomorrow's topic; Narender led coordination and encouraged regular practice and use of AI tools to improve English; several participants shared short talks about favorite people/things and skills.
+
+### Action items for Narender ###
+- [ ] Post and confirm tomorrow's topic(s) in the group chat so everyone knows what to prepare.
+- [ ] Set up or test the AI meeting-summary agent/Chrome extension and report back whether it works for future meetings.
+- [ ] Continue moderating calls and provide correction/feedback to Nikhil on tense usage and vocabulary during presentations (ongoing).
+
+### Action items for Navakumar ###
+- [ ] Troubleshoot the Git repository issue: collect and paste the exact command-line steps executed, create the pull request correctly (base: main, compare: master) and confirm that files appear in the repository; ask Narender for help if needed (ASAP).
+- [ ] Share the GitHub pull request link in the group once the PR is created.
+
+### Action items for Nikhil ###
+- [ ] Prepare and rehearse a clear presentation (parts of speech/selected topic) for the next meeting; practice sentence structure and tense usage.
+- [ ] Learn and use at least one new English vocabulary word daily; note mistakes to review in a weekly feedback call.
+- [ ] Acknowledge and follow suggestions from Narender and others; submit written notes or draft sentences to the group/chat for correction prior to the meeting.
+
+### Action items for Rahul ###
+- [ ] Post the detailed plan for tomorrow’s session (topic, expectations: e.g., tell one story or movie plot) in the group so everyone is prepared.
+- [ ] Continue Java study and be ready to answer or quiz the group on Java topics (interfaces, OOP concepts) during a short Q&A (ongoing).
+
+### Action items for Choppari (Rashmitha) ###
+- [ ] Prepare the presentation on parts of speech (tomorrow) and share notes/slides in the group ahead of time.
+- [ ] Continue to provide guidance and reminders to quieter participants to engage during calls.
+
+### Action items for bondla (Akshaya) ###
+- [ ] Increase verbal participation in meetings (speak up without waiting to be prompted) and prepare the chosen short story or topic for the next meeting.
+- [ ] Check and, if desired, update profile settings (profile picture/name) as agreed with the group.
+
+Notes: Participants agreed to practice presentations, use ChatGPT for draft corrections, and meet again tomorrow. Narender will post topics in the group and Navakumar will resolve the Git push/PR issue and share the link when ready.
