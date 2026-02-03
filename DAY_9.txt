@@ -1,0 +1,78 @@
+English Daily Communication – Day 9
+
+Date: 03-02-2026
+Topic: Something I Learned Recently That Surprised Me
+
+Attendance Sheet
+S.No	Name		Attendance
+1	Narendar	Present
+2	Navakumar	Present
+3	Nikhil	        Absent
+4	Rahul		Present
+5	Akshaya		Present
+6	Rashmitha	Absent
+
+Overall feedback
+
+# Meeting Summary
+
+## Participants
+- Narender Mekala
+- Navakumar Nava (facilitator)
+- Rahul Choppari
+- Bondla Akshaya
+
+## Date & Duration
+- Meeting began at 2026-02-03T17:39:39Z. Informal discussion lasted ~42 minutes.
+
+## Agenda
+- Daily English practice and sharing a recently learned skill or surprising discovery.
+- Informal conversation about college experiences, work, and upcoming social plans.
+
+## Key Points and Contributions
+
+### 1) Topic introduction
+- The session’s topic was clarified as: "Something you are learning recently that surprises you" (or recently learned skills and surprises). Participants were invited to share brief accounts.
+
+### 2) Narender — Learning Telugu script and phonetics
+- Narender spoke about learning Telugu varnamala (alphabet) and the structure of letters.
+- He outlined divisions within the Telugu letters (vowel/consonant groupings) and timing/length distinctions in pronunciation (short vs. long sounds).
+- Discovered many categories and technical terms (e.g., types of letters and classifications such as anunasikalu) and was surprised that, despite thinking he knew Telugu, he lacked detailed awareness of the alphabet and its classifications.
+- Expressed excitement and surprise at learning deeper linguistic details.
+
+### 3) Bondla Akshaya — Improving English speaking confidence
+- Akshaya shared progress in spoken English: overcoming fear, practicing regularly, and speaking more confidently with others and in the group.
+- She is newly practicing and hopes to continue building confidence.
+
+### 4) Navakumar (facilitator) — Daily English practice and consistency
+- Navakumar described personal progress over nine days of daily English practice, noting reduced nervousness and improved ability to speak with strangers.
+- Emphasized the importance of consistency and asked members to dedicate ~20–30 minutes per session for practice to achieve improvement.
+- Mentioned posting content on Git (likely GitHub) as a way to showcase skills.
+- Shared brief personal update about studying Java topics and applying for jobs (Infosys exam preparation and submitting applications). Also mentioned doing paid household cleaning work (cleaning a 3BHK flat) and remuneration details.
+
+### 5) Rahul — Learning accounting fundamentals
+- Rahul described studying accounting for the first time at college-level and his growing interest.
+- Shared his academic background (scored well in 10th grade, later struggled, then had a gap year before degree studies) and that accounting subjects were new to him.
+- Outlined the basic accounting cycle with steps: identification of transactions, recording in journals using double-entry system, posting to ledgers, balancing ledger accounts, preparing trial balance, and preparing final accounts (trading, profit & loss, and balance sheet). Mentioned closing entries and fiscal year-end differences (e.g., Dec 31 or Mar 31).
+
+## Other Discussion Topics (Informal)
+- Camera/camera-off and background noise: brief light-hearted comments about participants not switching on cameras and possible distractions (roommates, noise).
+- Plans and social activities: talk of a college event/party including bowling and food/finger starters; discussions about beverages (mocktails/alcohol) and arrangements/cost estimates for the party.
+- College day experiences: members compared sections, attendance, meeting new friends, and classroom seating (sections A/B/C, gender/medium distinctions). Rahul noted section attendance percentages.
+- Miscellaneous banter: food requests (biscuits), mentions of going to a restaurant and eating biryani, and light flirting/jokes about classmates and teachers.
+
+## Action Items and Requests
+- Facilitator’s request: Navakumar asked members to be consistent and contribute ~20–30 minutes each session to support their English-speaking growth.
+- Navakumar mentioned posting to Git and continuing daily practice; participants encouraged to post in the WhatsApp group.
+- Proposed topic for next meeting: “If you could be reborn as an animal, which would you choose and why?” — participants were asked to think and post their answers later.
+
+## Observations & Recommendations
+- Participation: All four participants spoke; the tone was informal and supportive with emphasis on language practice and peer encouragement.
+- Focus: The meeting mixed short learning updates with casual conversation. To increase learning value, consider allocating fixed time slots per speaker and setting a clear timer for each update.
+- Consistency: The facilitator stressed regular practice; maintaining daily or regular short sessions appears beneficial and is already producing improvements for multiple members.
+- Follow-ups: Remind participants to post their reflections in the WhatsApp group and to prepare for the next session’s prompt.
+
+## Summary Conclusion
+- The group used the session primarily for English speaking practice and to share recent learning experiences: Telugu script for Narender, English-confidence gains for Akshaya and Navakumar, and accounting fundamentals for Rahul.
+- The meeting ended on a casual note with social plans and a proposed topic for the next meeting; facilitator reiterated the importance of consistency and requested continued participation.
+
