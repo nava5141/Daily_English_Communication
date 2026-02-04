@@ -1,0 +1,68 @@
+English Daily Communication – Day 10
+
+Date: 04-02-2026
+Topic: If I Were Born Again, Which Animal Would I Like to Be?
+
+Attendance Sheet
+S.No	Name		Attendance
+1	Narendar	Present
+2	Navakumar	Present
+3	Nikhil	        Present
+4	Rahul		Present
+5	Akshaya		Present
+6	Rashmitha	Absent
+
+Overall feedback
+# Meeting Summary
+
+## Meeting details
+- Duration: ~1h 47m (transcript timestamps 00:00–01:47)
+- Participants: Navakumar, bondla (Akshaya), Narender, Nikhil, Rahul
+
+## Main topics discussed
+1. Clarification and teaching of programming concept: if / else / else if
+   - Navakumar and Narender repeatedly explained the C-language conditional constructs to bondla (Akshaya) and others.
+   - Key points covered:
+     - if: execute block when condition is true.
+     - else: execute alternative when the if-condition is false.
+     - else if: used to check additional conditions when previous if/else-if conditions are false; only the first true branch executes.
+     - Nested/inner if examples and flowchart/decision-box references were suggested as learning aids.
+     - Narender demonstrated with an example where multiple conditions are true but only the first matching if block runs, followed by else-if handling and the case when none match.
+   - Bondla expressed confusion initially about else-if; by the end, the group clarified execution order and behavior.
+   - Teaching suggestions: follow flowcharts, try examples on phone or in-class practice, and step-by-step checks of conditions.
+
+2. Short personal-topic presentations (round-robin speaking practice)
+   - Rahul: a short reflection comparing birds’ carefree lives to human worries; emphasized living in the present.
+   - Bondla (Akshaya): compared humans to birds — birds live in the present and don’t hoard food; personal anecdote about college/uniform and missing part of class while changing clothes.
+   - Nikhil: "If reborn" topic — chose lion (king of forest) and also mentioned a bird species (local name) that drinks rainwater; later spoke about recent job/office learning experience (Tally software, purchase entry) and first-day nerves, noting it took about a month to become comfortable.
+   - Navakumar: chose dolphin if reborn — emphasized intelligence, social behavior, communication by sound, and protective group behavior.
+   - Narender: preferred being a fish/water animal to explore the vast ocean depths; also described a team outing (bowling and party) where he was the top scorer.
+
+3. Social updates and personal stories
+   - Bondla noted parents’ anniversary and that chicken curry was served (sponsored by someone in the family); many participants exchanged greetings.
+   - Narender described a company team party (bowling + mocktails/cocktails), including costs (~₹70,000 total bill), food items, tickets for drinks, and being top scorer in bowling; he shared photos and described colleagues’ casual behavior and manager interaction.
+   - Nikhil recounted reconnecting with degree classmates and meeting new friends; mentioned difficulty remembering details and being shy about flirting; asked for tips.
+   - Discussions about uniforms at college (bondla forgot it was Wednesday) and class attendance; mention of studying C-language and other subjects.
+
+4. Logistics, future topics, and miscellaneous
+   - Proposed topic for next meeting: "Your favorite teacher — which class, why, and memorable qualities" (agreed by group).
+   - Brief mention of UPSC / civil services aspirational note: participants discussed eligibility, English language concerns, patience/dedication, and whether to attempt exams.
+   - Action items: Navakumar to post tomorrow’s topic in the group; group agreed to the teacher topic.
+
+## Decisions and action items
+- Next meeting topic: Favorite teacher (who and why) — Navakumar to post this in the group.
+- Concept follow-up: Participants (especially bondla) should practice if/else/else-if with flowcharts and hands-on examples; Narender and Navakumar offered clarifications and examples during the call.
+
+## Points of clarification / learning outcomes
+- Clear explanation of evaluation order for if / else if / else: the first true condition’s block executes and subsequent else-if blocks are not checked after a true branch; if none match, else (if present) runs.
+- Recommended study techniques: use flowcharts, real-time examples, test cases on mobile, and repetition to build understanding.
+
+## Tone and dynamics
+- Informal, friendly, often conversational with side topics (food, parties, family events). Several participants alternated between teaching moments and social banter.
+- Multiple interruptions, background noise, and participants joining/leaving the call; audio clarity was occasionally an issue.
+
+## Follow-ups / Recommendations
+- Bondla to try coding exercises and flowchart tracing for conditionals; ask for more example walkthroughs next meeting if needed.
+- Navakumar/Narender to consider preparing one clear example (code + flowchart) to share in the group or demonstrate next session.
+- Navakumar to post the agreed next-topic prompt in the group chat so participants can prepare short talks.
+
