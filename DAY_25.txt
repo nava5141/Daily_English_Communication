@@ -1,0 +1,147 @@
+
+Date: 11-03-2026
+
+Discussion Points with Participants
+1. Rahul Choppari
+
+Points:
+
+Explained the introduction of C language.
+
+Mentioned that C was developed by Dennis Ritchie in 1972.
+
+Described C as a general-purpose programming language used for system and application programming.
+
+Explained important features of C such as simplicity, speed, structured programming, and portability.
+
+Said he would share example C programs after the meeting.
+
+Conclusion:
+Rahul provided the basic foundation and overview of C programming.
+
+2. Bondla Akshaya
+
+Points:
+
+Explained the structure of a C program.
+
+Described sections like:
+
+Documentation section
+
+Link section (#include)
+
+Definition section
+
+Global declarations
+
+main() function.
+
+Explained data types (int, char, float).
+
+Discussed operators like arithmetic, relational, logical, and increment/decrement.
+
+Explained conditional statements (if, if-else).
+
+Talked about arrays and strings.
+
+Conclusion:
+Bondla mainly explained the core programming concepts and syntax of C.
+
+3. Navakumar
+
+Points:
+
+Asked questions about portability and platform dependence of C.
+
+Explained that C interacts closely with hardware and low-level programming.
+
+Clarified the difference between loops like for, while, and do-while.
+
+Emphasized the importance of functions and pointers.
+
+Led the discussion about misuse of government schemes and gave several real-life examples.
+
+Examples mentioned:
+
+Fake pension beneficiaries
+
+Fake ration cards
+
+Rich people getting benefits meant for poor
+
+Officials taking a portion of government benefits.
+
+Conclusion:
+Navakumar contributed with technical clarifications and social discussion topics.
+
+4. Narender Mekala
+
+Points:
+
+Asked questions about main() function and return values.
+
+Clarified that main() is the entry point of a C program.
+
+Explained that return 0 means successful program execution.
+
+Said he would research the topic of portability vs platform dependence.
+
+Conclusion:
+Narender focused on understanding program execution and researching unclear concepts.
+
+5. Nikhil
+
+Points:
+
+Supported the discussion about misuse of government schemes.
+
+Mentioned examples of:
+
+Fake documents
+
+Bribery
+
+Ineligible people receiving benefits.
+
+Conclusion:
+Nikhil contributed examples showing corruption and misuse of welfare programs.
+
+Overall Group Discussion Conclusion
+
+The meeting helped participants:
+
+Understand basic concepts of C programming
+
+Clarify structure, loops, operators, arrays, and functions
+
+Discuss real-world social issues like corruption in government schemes
+
+Encourage active learning and collaborative discussion
+
+Participants also agreed that pointers and advanced C topics should be studied in the next session.
+
+Additional Topics for Next Discussion
+Technical Topics
+
+Pointers in C
+
+Dynamic memory allocation
+
+Structures and unions
+
+File handling
+
+String functions
+
+Recursion
+
+Social / GD Topics
+
+Corruption in government schemes
+
+Digital technology in governance
+
+Artificial intelligence and employment
+
+Importance of transparency in welfare programs
